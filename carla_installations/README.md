@@ -10,7 +10,7 @@ git clone <repo_name> #TODO add the repo name
 ``` 
 # run 
 ```
-bash download_install.sh
+sbatch download_install.sh
 ```
 
 you can specify the folder you want to install that in
