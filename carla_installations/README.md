@@ -5,13 +5,13 @@ If you absolutly need to install carla on palmetto you can use this script. It i
 
 1. Clone this repo
 
-''' 
+``` 
 git clone <repo_name> #TODO add the repo name
-''' 
+``` 
 # run 
-'''
+```
 bash download_install.sh
-'''
+```
 
 you can specify the folder you want to install that in
 
@@ -26,6 +26,6 @@ it sould create a file *.mp4
 
 
 # to access the common folder setup, run 
-'''
+```
 bash carla_setup.sh
-''' 
+``` 
