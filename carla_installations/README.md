@@ -6,11 +6,11 @@ If you absolutly need to install carla on palmetto you can use this script. It i
 1. Clone this repo
 
 ``` 
-git clone <repo_name> #TODO add the repo name
+git clone git@github.com:grbagwe/vehicle-security.git
 ``` 
 # run 
 ```
-bash download_install.sh
+sbatch download_install.sh
 ```
 
 you can specify the folder you want to install that in
