@@ -1,4 +1,4 @@
-# CARLA installtion on palmetto
+# CARLA installation on palmetto - HPC 
 
 If you absolutly need to install carla on palmetto you can use this script. It installs carla 0.9.15
 ** In future we will have a common installation for everyone in the project folder **
