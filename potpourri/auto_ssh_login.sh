@@ -24,7 +24,7 @@ Host palmetto
     User $USERNAME
     ControlMaster auto
     ControlPath ~/.ssh/sockets/%r@%h:%p
-    ControlPersist 10m
+    ControlPersist 2h
 "
 CONFIG_FILE="$HOME/.ssh/config"
 
